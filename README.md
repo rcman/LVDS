@@ -5,5 +5,6 @@
 Brand ----------------------------- Description ----------- LVDS Type
 
 <br>
+<br>
 
 ASUS ------------------------------ SonicMaster ------------- Dual LVDS 40 PIN
