@@ -2,8 +2,6 @@
 
 # Laptops I have and their connectors
 <br>
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-ASUS           SonicMaster              Dual LVDS 40 PIN
+Brand----------------------------- Description-----------LVDS Type
+
+ASUS------------------------------ SonicMaster-------------Dual LVDS 40 PIN
