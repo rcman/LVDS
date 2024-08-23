@@ -2,8 +2,8 @@
 
 # Laptops I have and their connectors
 <br>
-Brand ----------------------------- Description ----------- LVDS Type
-
+|Brand ----------------------------- Description ----------- LVDS Type
+|-----------------------------------|-------------|------------------------|
 <br>
 <br>
 
