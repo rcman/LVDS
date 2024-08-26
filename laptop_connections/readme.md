@@ -1,3 +1,5 @@
+# LVDS and Keyboard Connections
+
 
 ![IMG_4165](https://github.com/user-attachments/assets/3e4790cb-3813-4b60-a646-dbe1d42c7fb7)
 ![IMG_4164](https://github.com/user-attachments/assets/32d52d6e-b188-424c-9ee8-48ed3cb0f7a4)
